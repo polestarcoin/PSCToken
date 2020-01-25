@@ -1,1 +1,1 @@
-# PSCToken
+# PSCToken logo
